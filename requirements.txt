@@ -1,0 +1,9 @@
+manim
+numpy
+keras
+matplotlib
+tensorflow
+pydotplus
+scikit-learn
+six
+seaborn
